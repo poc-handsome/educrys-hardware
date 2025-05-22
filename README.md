@@ -10,6 +10,16 @@ While most electronic components of EduCrys are enclosed in a robust metallic bo
 
 <img src="pics/packing.jpg" width="1200">
 
+
+If the EduCrys setup is transported without packing in the partly-assembled state, the following safety measures are recommended:
+
+- Disconnect the rotation motor, detach the seed holder, wind the pulling wire on the main pulley and fix it with a tape
+- Disconnect the camera and detach it from the magic arm
+- Tape the crucible and camera cable to the main body to prevent motion
+- Pack the seed holder and camera separately
+
+<img src="pics/transport.jpg" width="400">
+
 ## List of components
 
 ### Main components
