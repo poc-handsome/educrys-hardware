@@ -6,12 +6,13 @@ The sections below provide information for users who have received a ready-to-us
 
 ## Packing
 
-While most electronic components of EduCrys are enclosed in a robust metallic box, many sensors and other parts need careful packing to avoid damage during transport. The pictures below show an example of such packing. The final package has dimensions of 60x43x23 cm and weight of 13.3 kg.
+While most electronic components of EduCrys are enclosed in a robust metallic box, many sensors and other parts need careful packing to avoid damage during transport. The pictures below show an example of such packing. The final package has dimensions of 60x41x23 cm and weight of 13.3 kg.
 
 <img src="pics/packing.jpg" width="1200">
 
+## Transport without packing
 
-If the EduCrys setup is transported without packing in the partly-assembled state, the following safety measures are recommended:
+If the EduCrys setup is transported in the partly-assembled state, the following safety measures are recommended:
 
 - Disconnect the rotation motor, detach the seed holder, wind the pulling wire on the main pulley and fix it with a tape
 - Disconnect the camera and detach it from the magic arm
