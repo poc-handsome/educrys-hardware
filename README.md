@@ -1,4 +1,5 @@
 # educrys-hardware
+[![DOI](https://zenodo.org/badge/987863388.svg)](https://doi.org/10.5281/zenodo.15575646)
 
 Subfolders contain the documentation for [mechanical](/mechanical-design) (TODO) and [electronic](/electronic-design) (TODO) design of EduCrys setup for the users who want to build or adapt it by themselves.
 
