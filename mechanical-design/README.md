@@ -5,6 +5,8 @@ TODO: Add images for 3D CAD models and CAD drawings of all mechanical parts belo
 
 TODO: Add all CAD data in separate subfolders (Mxxx as name)
 
+TODO: Add editable lists
+
 ## M01 Base plate
 
 ## M02 Top plate
