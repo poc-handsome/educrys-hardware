@@ -33,7 +33,9 @@ Editable list: type, length, purpose/position, vendor link
 
 ## E07 Wiring
 
-Order list (Prices incl. VAT and typically a higher amount than needed for 1 device):
+# Order list 
+
+Prices are given in EUR incl. VAT. Typically a higher amount of materials is calculated than needed for 1 device.
 
 | Nr | Name                             | Amount | Price | Vendor/Link              | Datasheet | 
 |----|----------------------------------|--------|-------|--------------------------|-----------|
@@ -41,21 +43,25 @@ Order list (Prices incl. VAT and typically a higher amount than needed for 1 dev
 | 11 | Blue wire, 1.5 mm2               | 10 m   | 4.5   | [Reichelt/H07VK 1,5-10BL](https://www.reichelt.de/de/de/shop/produkt/schaltlitze_h07v-k_1_5_mm_10_m_blau-69504)  |           |
 | 12 | Green-yellow wire, 1.5 mm2       | 10 m   | 4.5   | [Reichelt/H07VK 1,5-10GG](https://www.reichelt.de/de/de/shop/produkt/schaltlitze_h07v-k_1_5_mm_10_m_gruen_gelb-69506)  |           |
 | 13 | Wire set, 0.25 mm2               | 1      | 27.99 | [Conrad/2201407](https://www.conrad.de/de/p/quadrios-19011ca085-litze-lify-1-x-0-25-mm-blau-braun-grau-rot-schwarz-weiss-gelb-gruen-70-m-2201407.html?searchType=SearchRedirect)           |           |
-| 14 | Cable, 6 x 0.25 mm2              | 10 m   | 39.90 | [Conrad/486478](https://www.conrad.de/de/p/kabeltronik-liyy-steuerleitung-6-x-0-25-mm-grau-10602500-meterware-486478.html?searchType=SearchRedirect)            |           |
+| 14 | Cable, 6 x 0.25 mm2              | 5 m    | 19.95 | [Conrad/486478](https://www.conrad.de/de/p/kabeltronik-liyy-steuerleitung-6-x-0-25-mm-grau-10602500-meterware-486478.html?searchType=SearchRedirect)            |           |
 | 15 | Cable, 4 x 0.14 mm2              | 25 m   | 17.40 | [Reichelt/LIYCY 04-25](https://www.reichelt.de/de/de/shop/produkt/steuerleitung_4x0_14mm_geschirmt_25m-ring-10302)     |           |
-| 16 | Compensation wire, 4 x 0.14 mm2  | 10 m   | 34.90 | [Conrad/121329](https://www.conrad.de/de/p/b-b-thermo-technik-ausgleichsleitung-0230-0191-messbereich-temperatur-10-bis-105-c-121329.html?searchType=SearchRedirect)            |           |
-| 17 | Network cable                    |  5     | 4.95  | [Conrad/2521890](https://www.conrad.de/de/p/renkforce-rf-5043780-rj45-netzwerkkabel-patchkabel-cat-5e-u-utp-2-00-m-weiss-mit-rastnasenschutz-1-st-2521890.html?searchType=SearchRedirect)           |           |
-| 18 | Fan extenstion cable             | 5      | 27.45 | [Conrad/976188](https://www.conrad.de/de/p/pc-luefter-verlaengerungskabel-1x-pc-luefter-stecker-4pol-1x-pc-luefter-buchse-4pol-0-30-m-schwarz-akasa-976188.html?searchType=SearchRedirect)           |           |
+| 16 | Compensation wire, 4 x 0.14 mm2  | 5 m    | 17.45 | [Conrad/121329](https://www.conrad.de/de/p/b-b-thermo-technik-ausgleichsleitung-0230-0191-messbereich-temperatur-10-bis-105-c-121329.html?searchType=SearchRedirect)            |           |
+| 17 | Network cable                    | 5      | 4.95  | [Conrad/2521890](https://www.conrad.de/de/p/renkforce-rf-5043780-rj45-netzwerkkabel-patchkabel-cat-5e-u-utp-2-00-m-weiss-mit-rastnasenschutz-1-st-2521890.html?searchType=SearchRedirect)           |           |
+| 18 | Fan extenstion cable             | 3      | 16.47 | [Conrad/976188](https://www.conrad.de/de/p/pc-luefter-verlaengerungskabel-1x-pc-luefter-stecker-4pol-1x-pc-luefter-buchse-4pol-0-30-m-schwarz-akasa-976188.html?searchType=SearchRedirect)           |           |
 | 19 | Wire set, 0.34 mm2               | 1      | 49.95 | [Eckstein/SF11367](https://eckstein-shop.de/SparkFunHook-UpWire-AssortmentSolidCore2C22AWG)         |           |
-| 20 | Blank ferrule, 1.5 mm2           | 1      | 8.99  | [Conrad/2870591](https://www.conrad.de/de/p/quadrios-22c485-aderendhuelsen-sortiment-unisoliert-1000-st-2870591.html?searchType=SearchRedirect)           |           |
-| 21 | Receptable 4.75 mm               | 10     | 1.9   | [Reichelt/FSH-M1 4.75](https://www.reichelt.de/de/de/shop/produkt/flachsteckhuelse_nicht_isoliert_breite_4_75mm-24854)     |           |
+| 20 | Blank ferrule set                | 1      | 8.99  | [Conrad/2870591](https://www.conrad.de/de/p/quadrios-22c485-aderendhuelsen-sortiment-unisoliert-1000-st-2870591.html?searchType=SearchRedirect)           |           |
+| 21 | Receptable, 4.75 mm              | 10     | 1.9   | [Reichelt/FSH-M1 4.75](https://www.reichelt.de/de/de/shop/produkt/flachsteckhuelse_nicht_isoliert_breite_4_75mm-24854)     |           |
 | 22 | Insulation sleeve (from set)     | 1      | 9.1   | [Reichelt/QUAD 1908C181](https://www.reichelt.de/de/de/shop/produkt/flachstecker-huelsen_set_0_5_x_4_8_mm_0_5_-1_5_mm_100-teilig-280155)   |           |
-| 23 | Ring cable lug M6                | 10     | 0.8   | [Reichelt/RK-B-6](https://www.reichelt.de/de/de/shop/produkt/ring-kerbschuhe_fuer_m6_blau-15254)          |           |
-| 24 | Ring cable lug M4                | 10     | 1.3   | [Reichelt/VT RK-B-4](https://www.reichelt.de/de/de/shop/produkt/ring-kerbschuhe_fuer_m4_blau-231385)       |           |
-| 25 | Insulated ferrule set            | 2      | 9.98  | [Conrad/2870580](https://www.conrad.de/de/p/quadrios-2010c392-aderendhuelsen-sortiment-teilisoliert-200-st-2870580.html?searchType=SearchRedirect)           |           |
+| 23 | Ring cable lug, M6               | 10     | 0.8   | [Reichelt/RK-B-6](https://www.reichelt.de/de/de/shop/produkt/ring-kerbschuhe_fuer_m6_blau-15254)          |           |
+| 24 | Ring cable lug, M4               | 10     | 1.3   | [Reichelt/VT RK-B-4](https://www.reichelt.de/de/de/shop/produkt/ring-kerbschuhe_fuer_m4_blau-231385)       |           |
+| 25 | Insulated ferrule set            | 3      | 14.97  | [Conrad/2870580](https://www.conrad.de/de/p/quadrios-2010c392-aderendhuelsen-sortiment-teilisoliert-200-st-2870580.html?searchType=SearchRedirect)           |           |
 | 26 | Heat shrink tube set             | 1      | 23.99 | [Conrad/2583933](https://www.conrad.de/de/p/quadrios-1807ca006-schrumpfschlauchsortiment-schwarz-schrumpfrate-3-1-1-set-2583933.html?searchType=SearchRedirect)           |           |
 
-Parts:
+*** Sum = 211.31 EUR
+
+# Parts
+
+These must be built using the items (Nr) from the order list.
 
 | Part  | Name                   | Amount | Wire                        | Length      | Ends                                                 |
 |-------|------------------------|--------|-----------------------------|-------------|------------------------------------------------------|
