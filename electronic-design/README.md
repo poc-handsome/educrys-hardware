@@ -34,6 +34,7 @@ Editable list: type, length, purpose/position, vendor link
 ## E07 Wiring
 
 Order list:
+
 10. Brown wire, 1.5 mm2: Reichelt/H07VK 1,5-10BR
 11. Blue wire, 1.5 mm2: Reichelt/H07VK 1,5-10BL
 12. Green-yellow wire, 1.5 mm2: Reichelt/H07VK 1,5-10GG
@@ -65,6 +66,8 @@ Order list:
 | E07S7 | supply/ground/top      | 1      | 12: green-yellow, 1.5 mm2   | 250 mm      | 23: cable lug / 24: cable lug                        |
 | E07S8 | supply/ground/back     | 1      | 12: green-yellow, 1.5 mm2   | 150 mm      | 23: cable lug / 21: receptacle + 22: sleeve          |
 | E07S9 | SSR box/signal         | 1      | 13: brown+grey, 0.25 mm2    | 210 mm      | 25: isolated ferrule / 25: isolated ferrule          |
+
+| Part  | Name                   | Amount | Wire                        | Length      | Ends                                                 |
 |-------|------------------------|--------|-----------------------------|-------------|------------------------------------------------------|
 | E07M1 | Motors/inside          | 1      | 14: 6 x 0.25 mm2, no shield | 200 mm      | solder + 26: heat shrink tube / 25: isolated ferrule |
 | E07M2 | Motors/outside         | 1      | 14: 6 x 0.25 mm2            | 800 mm      | solder / solder + 26: heat shrink tube               |
