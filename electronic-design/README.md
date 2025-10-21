@@ -23,7 +23,23 @@ Editable list: type, purpose/position, vendor link
 
 ## E05 Connectors
 
-Editable list: type, purpose/position, vendor link
+Prices are given in EUR incl. VAT. 
+
+| Part  | Description                             | Use               | Price | Vendor/Link              | Datasheet | 
+|-------|-----------------------------------------|-------------------|-------|--------------------------|-----------|
+| E05P  | Power socket with fuse, C14             | Power cable       |       | Conrad/2522092           |           |
+| E05M1 | Socket SUB-D-9                          | Motors            |       | Conrad/1389963           |           |
+| E05M2 | Jack SUB-D-9                            | Motors            |       | Reichelt/MHDTZK 9 S      |           |
+| E05M3 | SUB-D screws                            | Motors            |       | Digikey/609-1421-ND      |           |
+| E05T1 | Socket, Type-K                          | Thermocouple      |       | Conrad/121365            |           |
+| E05T2 | Jack, Type-K                            | Thermocouple      |       | Conrad/133523            |           |
+| E05S1 | Socket, DIN-6                           | PT sensor         |       | Conrad/733449            |           |
+| E05S2 | Jack, DIN-6                             | PT sensor         |       | Conrad/733336            |           |
+| E05W1 | Socket, M8, 09-3390-80-04               | Weight cell       |       | Conrad/733875            |           |
+| E05W2 | Jack, M8, 99 3383 00 04                 | Weight cell       |       | Conard/746035            |           |
+| E05N1 | Socket, RJ45                            | Sensor box        |       | Conrad/1497957           |           |
+| E05H  | Feedthrough HDMI                        | Monitor	          |       | Conrad/2473497           |           |
+| E05U  | Feedthrough USB                         | Keyboard          |       | Conrad/2354829           |           |
 
 ## E06 Cables
 
@@ -32,8 +48,8 @@ Prices are given in EUR incl. VAT.
 | Part  | Description                             | Use               | Price | Vendor/Link              | Datasheet | 
 |-------|-----------------------------------------|-------------------|-------|--------------------------|-----------|
 | E06P	| Power cable	C13 / plug,	1.5 m	          | C14 power socket  | 3.49  | [Conrad/2521347](https://www.conrad.de/de/p/sygonix-sy-5042694-kaltgeraete-anschlusskabel-schwarz-1-50-m-2521347.html?searchType=SearchRedirect)           |           |
-| E06U2	| USB Kabel	Type-A / Micro-B, 1 m         | RPi keyboard      | 1.9   | [Welectron/RP9-205570](https://www.welectron.com/Offizielles-Raspberry-Pi-micro-USB-Kabel)     |           |
-| E06C	| RPi camera cable, 0.5 m                   | RPi camera      | 2.9   | [Welectron/GM7-210500](https://www.welectron.com/Groundmicro-FPC-Kabel-100mm-Pitch-15-Pin-fuer-Raspberry-Pi-CSI-DSI-50-cm)     |           |
+| E06U2	| USB Kabel	Type-A / Micro-B, 1 m         | Wall to keyboard  | 1.9   | [Welectron/RP9-205570](https://www.welectron.com/Offizielles-Raspberry-Pi-micro-USB-Kabel)     |           |
+| E06C	| RPi camera cable, 0.5 m                 | RPi to camera     | 2.9   | [Welectron/GM7-210500](https://www.welectron.com/Groundmicro-FPC-Kabel-100mm-Pitch-15-Pin-fuer-Raspberry-Pi-CSI-DSI-50-cm)     |           |
 | E06H	| HDMI cable Type-A / Micro-D, 0.5 m      | RPi to wall       | 1.9   | [Welectron/GB1-053780](https://www.welectron.com/Goobay-53780-micro-HDMI-Kabel-HDMI-20-050m)     |           |
 | E06U1	| USB cable Type-A / Type-B 90 deg, 0.5 m	| RPi to wall       | 1.39  |	[Welectron/GB1-093016](https://www.welectron.com/Goobay-93016-USB-B-Kabel-gewinkelt-USB-20-050m)     |           |
 
@@ -63,7 +79,7 @@ Prices are given in EUR incl. VAT. Typically a higher amount of materials is cal
 | 25 | Insulated ferrule set            | 3      | 14.97  | [Conrad/2870580](https://www.conrad.de/de/p/quadrios-2010c392-aderendhuelsen-sortiment-teilisoliert-200-st-2870580.html?searchType=SearchRedirect)           |           |
 | 26 | Heat shrink tube set             | 1      | 23.99 | [Conrad/2583933](https://www.conrad.de/de/p/quadrios-1807ca006-schrumpfschlauchsortiment-schwarz-schrumpfrate-3-1-1-set-2583933.html?searchType=SearchRedirect)           |           |
 
-*** Sum = 211.31 EUR ***
+**Sum = 211.31 EUR**
 
 ### Parts
 
