@@ -27,17 +27,23 @@ Editable list: type, purpose/position, vendor link
 
 ## E06 Cables
 
-Editable list: type, length, purpose/position, vendor link
+Prices are given in EUR incl. VAT. 
 
-
+| Part  | Description                             | Use               | Price | Vendor/Link              | Datasheet | 
+|-------|-----------------------------------------|-------------------|-------|--------------------------|-----------|
+| E06P	| Power cable	C13 / plug,	1.5 m	          | C14 power socket  | 3.49  | [Conrad/2521347](https://www.conrad.de/de/p/sygonix-sy-5042694-kaltgeraete-anschlusskabel-schwarz-1-50-m-2521347.html?searchType=SearchRedirect)           |           |
+| E06U2	| USB Kabel	Type-A / Micro-B, 1 m         | RPi keyboard      | 1.9   | [Welectron/RP9-205570](https://www.welectron.com/Offizielles-Raspberry-Pi-micro-USB-Kabel)     |           |
+| E06C	| RPi camera cable, 0.5 m                   | RPi camera      | 2.9   | [Welectron/GM7-210500](https://www.welectron.com/Groundmicro-FPC-Kabel-100mm-Pitch-15-Pin-fuer-Raspberry-Pi-CSI-DSI-50-cm)     |           |
+| E06H	| HDMI cable Type-A / Micro-D, 0.5 m      | RPi to wall       | 1.9   | [Welectron/GB1-053780](https://www.welectron.com/Goobay-53780-micro-HDMI-Kabel-HDMI-20-050m)     |           |
+| E06U1	| USB cable Type-A / Type-B 90 deg, 0.5 m	| RPi to wall       | 1.39  |	[Welectron/GB1-093016](https://www.welectron.com/Goobay-93016-USB-B-Kabel-gewinkelt-USB-20-050m)     |           |
 
 ## E07 Wiring
 
-# Order list 
+### Order list 
 
 Prices are given in EUR incl. VAT. Typically a higher amount of materials is calculated than needed for 1 device.
 
-| Nr | Name                             | Amount | Price | Vendor/Link              | Datasheet | 
+| Nr | Description                      | Amount | Price | Vendor/Link              | Datasheet | 
 |----|----------------------------------|--------|-------|--------------------------|-----------|
 | 10 | Brown wire, 1.5 mm2              | 10 m   | 4.5   | [Reichelt/H07VK 1,5-10BR](https://www.reichelt.de/de/de/shop/produkt/schaltlitze_h07v-k_1_5_mm_10_m_braun-69505)  |           |
 | 11 | Blue wire, 1.5 mm2               | 10 m   | 4.5   | [Reichelt/H07VK 1,5-10BL](https://www.reichelt.de/de/de/shop/produkt/schaltlitze_h07v-k_1_5_mm_10_m_blau-69504)  |           |
@@ -57,13 +63,13 @@ Prices are given in EUR incl. VAT. Typically a higher amount of materials is cal
 | 25 | Insulated ferrule set            | 3      | 14.97  | [Conrad/2870580](https://www.conrad.de/de/p/quadrios-2010c392-aderendhuelsen-sortiment-teilisoliert-200-st-2870580.html?searchType=SearchRedirect)           |           |
 | 26 | Heat shrink tube set             | 1      | 23.99 | [Conrad/2583933](https://www.conrad.de/de/p/quadrios-1807ca006-schrumpfschlauchsortiment-schwarz-schrumpfrate-3-1-1-set-2583933.html?searchType=SearchRedirect)           |           |
 
-*** Sum = 211.31 EUR
+*** Sum = 211.31 EUR ***
 
-# Parts
+### Parts
 
 These must be built using the items (Nr) from the order list.
 
-| Part  | Name                   | Amount | Wire                        | Length      | Ends                                                 |
+| Part  | Description            | Amount | Wire                        | Length      | Ends                                                 |
 |-------|------------------------|--------|-----------------------------|-------------|------------------------------------------------------|
 | E07S1 | SSR box/phase          | 2      | 10: brown, 1.5 mm2          | 75 mm       | 20: blank ferrule / 20: blank ferrule                |
 | E07S2 | SSR box/neutral        | 1      | 11: blue, 1.5 mm2           | 200 mm      | 20: blank ferrule / 20: blank ferrule                |
@@ -75,7 +81,7 @@ These must be built using the items (Nr) from the order list.
 | E07S8 | supply/ground/back     | 1      | 12: green-yellow, 1.5 mm2   | 150 mm      | 23: cable lug / 21: receptacle + 22: sleeve          |
 | E07S9 | SSR box/signal         | 1      | 13: brown+grey, 0.25 mm2    | 210 mm      | 25: isolated ferrule / 25: isolated ferrule          |
 
-| Part  | Name                   | Amount | Wire                        | Length      | Ends                                                 |
+| Part  | Description            | Amount | Wire                        | Length      | Ends                                                 |
 |-------|------------------------|--------|-----------------------------|-------------|------------------------------------------------------|
 | E07M1 | Motors/inside          | 1      | 14: 6 x 0.25 mm2, no shield | 200 mm      | solder + 26: heat shrink tube / 25: isolated ferrule |
 | E07M2 | Motors/outside         | 1      | 14: 6 x 0.25 mm2            | 800 mm      | solder / solder + 26: heat shrink tube               |
