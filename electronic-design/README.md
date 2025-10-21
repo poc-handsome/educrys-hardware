@@ -101,6 +101,7 @@ These must be built using the items (Nr) from the order list.
 |-------|------------------------|--------|-----------------------------|-------------|------------------------------------------------------|
 | E07M1 | Motors/inside          | 1      | 14: 6 x 0.25 mm2, no shield | 200 mm      | solder + 26: heat shrink tube / 25: isolated ferrule |
 | E07M2 | Motors/outside         | 1      | 14: 6 x 0.25 mm2            | 800 mm      | solder / solder + 26: heat shrink tube               |
+| E07M3 | Motor/DC               | 1      | XX: 2 x 0.14 mm2            | 800 mm      | solder + 26: heat shrink tube / ..                   |
 | E07P1 | PT/inside              | 1      | 15: 4 x 0.14 mm2, no shield | 280 mm      | solder + 26: heat shrink tube / 25: isolated ferrule |
 | E07T1 | TC/inside              | 2      | 16: 2 x 0.14 mm2            | 300 mm      | none / 25: isolated ferrule                          |
 | E07W1 | Weight/inside          | 1      | 15: 4 x 0.14 mm2, no shield | 300 mm      | solder + 26: heat shrink tube / 25: isolated ferrule |
