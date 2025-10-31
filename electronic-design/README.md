@@ -23,20 +23,20 @@ Prices are given in EUR incl. VAT.
 
 | Part  | Description                             | Use               | Price | Vendor/Link              | Datasheet | 
 |-------|-----------------------------------------|-------------------|-------|--------------------------|-----------|
-| E04S1 | Power socket (2x)                       | SSR box           | 8.98  | Conrad/2484787           |           |
-| E04S2 | Solid state relais                      | SSR box           | 74.52 | RS/491-4947              |           |
-| E04R1 | Raspberry Pi 4 w. 4 GB                  |                   |       | Welectron/RP1-141400     |           |
-| E04R2 | SD card 64GB                            | Raspberry Pi      |       | Welectron/SD1-200644     |           |
-| E04R3 | Heatsink                                | Raspberry Pi      |       | Welectron/409151         |           |
-| E04R4 | Power supply 5V, 3A                     | Raspberry Pi      |       | Welectron/408024-012     |           |
-| E04R5 | Keyboard + mouse                        | Raspberry Pi      |       | Welectron/409483-002     |           |
-| E04R6 | Gamepad                                 | Raspberry Pi      |       | Conrad/1954771           |           |
-| E04E1 | Metal film resistors (set)              | PCB               |       | Reichelt/METALL E 12     |           |
-| E04E2 | Foil capacitors (set)                   | PCB               |       | Reichelt/SORTIMENT 100   |           |
-| E04E3 | Capacitor 100 uF (4x)                   | PCB               |       | Conrad/1179727           |           |
-| E04E4 | Buzzer                                  | PCB               |       | Reichelt/KXG1205C        |           |
-| E04E5 | Transistor KC337 (2x)                   | PCB               |       | Reichelt/BC 337-16       |           |
-| E05E6 | White LED                               | Sensor box        |       | Conrad/180754            |           |
+| E04S1 | Power socket (2x)                       | SSR box           | 8.98  | [Conrad/2484787](https://www.conrad.de/de/p/as-schwabe-45084-einbau-steckdose-grau-2484787.html?searchType=SearchRedirect)           |           |
+| E04S2 | Solid state relais                      | SSR box           | 74.52 | [RS/491-4947](https://de.rs-online.com/web/p/halbleiterrelais/4914947)              |           |
+| E04R1 | Raspberry Pi 4 B (4 GB)                 |                   | 57.90 | [Welectron/RP1-141400](https://www.welectron.com/Raspberry-Pi-4-B-4-GB)     |           |
+| E04R2 | SD card 64GB                            | Raspberry Pi      | 6.9   | [Welectron/SD1-200644](https://www.welectron.com/SanDisk-SDSQUAB-064G-GN6MA-Ultra-microSD-Speicherkarte-64-GB-140-MB-s)     |           |
+| E04R3 | Heatsink                                | Raspberry Pi      | 1.3   | [Welectron/409151](https://www.welectron.com/Raspberry-Pi-Kuehlkoerpersatz)         |           |
+| E04R4 | Power supply 5V, 3A                     | Raspberry Pi      | 7.5   | [Welectron/408024-012](https://www.welectron.com/Offizielles-Raspberry-Pi-4-Steckernetzteil-USB-C-51V-3A-weiss-EU)     |           |
+| E04R5 | Keyboard + mouse                        | Raspberry Pi      | 27.90 | [Welectron/409483-002](https://www.welectron.com/Offizielle-Raspberry-Pi-Tastatur-Maus-Kombination-rot-weiss-DE)     |           |
+| E04R6 | Gamepad                                 | Raspberry Pi      | 4.99  | [Conrad/1954771](https://www.conrad.de/de/p/joy-it-gamepad-snes-design-gamepad-raspberry-pi-universal-grau-1954771.html?searchType=SearchRedirect)           |           |
+| E04E1 | Metal film resistors (set)              | PCB               | 46.65 | [Reichelt/METALL E 12](https://www.reichelt.de/de/de/shop/produkt/metallschichtwiderstandssortiment_e12-12049)     |           |
+| E04E2 | Foil capacitors (set)                   | PCB               | 83.50 | [Reichelt/SORTIMENT 100](https://www.reichelt.de/de/de/shop/produkt/sortimentsbox_folienkondensatoren_rm_5mm-19263)   |           |
+| E04E3 | Capacitor 100 uF (4x)                   | PCB               | 5.16  | [Conrad/1179727](https://www.conrad.de/de/p/panasonic-16sepc100m-elektrolyt-kondensator-radial-bedrahtet-2-5-mm-100-f-16-v-dc-20-o-x-h-6-3-mm-x-6-mm-1-st-1179727.html?searchType=SearchRedirect)           |           |
+| E04E4 | Buzzer                                  | PCB               | 0.99  | [Reichelt/KXG1205C](https://www.reichelt.de/de/de/shop/produkt/indikator_85db_2300_hz_5_v-360852)        |           |
+| E04E5 | Transistor KC337 (2x)                   | PCB               | 0.1   | [Reichelt/BC 337-16](https://www.reichelt.de/de/de/shop/produkt/bipolartransistor_npn_45v_0_8a_0_625w_to-92-4985)       |           |
+| E05E6 | White LED                               | Sensor box        | 0.5   | [Conrad/180754](https://www.conrad.de/de/p/nichia-nspw300ds-sel-b2v-w-led-bedrahtet-weiss-rund-3-mm-15000-mcd-20-20-ma-3-2-v-180754.html)            |           |
 
 
 ## E05 Connectors
