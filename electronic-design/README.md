@@ -27,19 +27,19 @@ Prices are given in EUR incl. VAT.
 
 | Part  | Description                             | Use               | Price | Vendor/Link              | Datasheet | 
 |-------|-----------------------------------------|-------------------|-------|--------------------------|-----------|
-| E05P  | Power socket with fuse, C14             | Power cable       |       | Conrad/2522092           |           |
-| E05M1 | Socket SUB-D-9                          | Motors            |       | Conrad/1389963           |           |
-| E05M2 | Jack SUB-D-9                            | Motors            |       | Reichelt/MHDTZK 9 S      |           |
-| E05M3 | SUB-D screws                            | Motors            |       | Digikey/609-1421-ND      |           |
-| E05T1 | Socket, Type-K                          | Thermocouple      |       | Conrad/121365            |           |
-| E05T2 | Jack, Type-K                            | Thermocouple      |       | Conrad/133523            |           |
-| E05S1 | Socket, DIN-6                           | PT sensor         |       | Conrad/733449            |           |
-| E05S2 | Jack, DIN-6                             | PT sensor         |       | Conrad/733336            |           |
-| E05W1 | Socket, M8, 09-3390-80-04               | Weight cell       |       | Conrad/733875            |           |
-| E05W2 | Jack, M8, 99 3383 00 04                 | Weight cell       |       | Conard/746035            |           |
-| E05N1 | Socket, RJ45                            | Sensor box        |       | Conrad/1497957           |           |
-| E05H  | Feedthrough HDMI                        | Monitor	          |       | Conrad/2473497           |           |
-| E05U  | Feedthrough USB                         | Keyboard          |       | Conrad/2354829           |           |
+| E05P  | Power socket with fuse, C14             | Power cable       | 3.29  | [Conrad/2522092](https://www.conrad.de/de/p/tru-components-tc-10088368-kaltgeraete-steckverbinder-c14-stecker-einbau-vertikal-gesamtpolzahl-3-10-a-schwarz-1-st-2522092.html)           |           |
+| E05M1 | Socket SUB-D-9                          | Motors            | 0.34  | [Conrad/1389963](https://www.conrad.de/de/p/connfly-ds1033-09fbnsiss-ct-d-sub-buchse-180-polzahl-9-loeten-1-st-1389963.html?searchType=SearchRedirect)           |           |
+| E05M2 | Jack SUB-D-9                            | Motors            | 1.95  | [Reichelt/MHDTZK 9 S](https://www.reichelt.de/de/de/shop/produkt/d-sub_stecker_9_polig-342366)      |           |
+| E05M3 | SUB-D screws (2x)                       | Motors            | 1.02  | [Digikey/609-1421-ND](https://www.digikey.de/de/products/detail/amphenol-cs-fci/863001061TLF/1001735)      |           |
+| E05T1 | Socket, Type-K                          | Thermocouple      | 4.79  | [Conrad/121365](https://www.conrad.de/de/p/b-b-thermo-technik-0220-0005-miniaturdose-typ-k-gelb-50-120-c-gelb-inhalt-1-st-121365.html?searchType=SearchRedirect)            |           |
+| E05T2 | Jack, Type-K                            | Thermocouple      | 3.79  | [Conrad/133523](https://www.conrad.de/de/p/b-b-thermo-technik-0220-0001-miniaturstecker-typ-k-gelb-gelb-inhalt-1-st-133523.html?searchType=SearchRedirect)            |           |
+| E05S1 | Socket, DIN-6                           | PT sensor         |       | [Conrad/733449](https://www.conrad.de/de/p/lumberg-0103-06-din-rundsteckverbinder-flanschbuchse-kontakte-gerade-polzahl-6-silber-1-st-733449.html?searchType=SearchRedirect)            |           |
+| E05S2 | Jack, DIN-6                             | PT sensor         | 5.99  | [Conrad/733336](https://www.conrad.de/de/p/lumberg-0131-06-din-rundsteckverbinder-stecker-gerade-polzahl-6-silber-1-st-733336.html?searchType=SearchRedirect)            |           |
+| E05W1 | Socket, M8, 09-3390-80-04               | Weight cell       | 12.90 | [Conrad/733875](https://www.conrad.de/de/p/binder-09-3390-80-04-sensor-aktor-einbausteckverbinder-m8-buchse-gerade-polzahl-sensoren-4-1-st-733875.html?searchType=SearchRedirect)            |           |
+| E05W2 | Jack, M8, 99 3383 00 04                 | Weight cell       | 13.99 | [Conard/746035](https://www.conrad.de/de/p/binder-99-3383-00-04-sensor-aktor-steckverbinder-unkonfektioniert-m8-stecker-gerade-polzahl-sensoren-4-1-st-746035.html?searchType=SearchRedirect)            |           |
+| E05N1 | Socket, RJ45                            | Sensor box        | 5.99  | [Conrad/1497957](https://www.conrad.de/de/p/tru-components-rj-45-einbaubuchse-93038c234-1-st-1497957.html?searchType=SearchRedirect)           |           |
+| E05H  | Feedthrough HDMI                        | Monitor	          | 9.75  | [Conrad/2473497](https://www.conrad.de/de/p/fm-slim-ft-hdmi-f-f-3-2-hole-adapter-einbau-cp30600gx1-cliff-inhalt-1-st-2473497.html?searchType=SearchRedirect)           |           |
+| E05U  | Feedthrough USB                         | Keyboard          | 7.49  | [Conrad/2354829](https://www.conrad.de/de/p/adapter-buchse-einbau-usb-buchse-typ-a-usb-buchse-typ-b-cp30609n-cliff-inhalt-1-st-2354829.html?searchType=SearchRedirect)           |           |
 
 ## E06 Cables
 
