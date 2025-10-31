@@ -19,7 +19,25 @@ Editable list: type, purpose/position, vendor link
 
 ## E04 Electrical components
 
-Editable list: type, purpose/position, vendor link
+Prices are given in EUR incl. VAT. 
+
+| Part  | Description                             | Use               | Price | Vendor/Link              | Datasheet | 
+|-------|-----------------------------------------|-------------------|-------|--------------------------|-----------|
+| E04S1 | Power socket (2x)                       | SSR box           | 8.98  | Conrad/2484787           |           |
+| E04S2 | Solid state relais                      | SSR box           | 74.52 | RS/491-4947              |           |
+| E04R1 | Raspberry Pi 4 w. 4 GB                  |                   |       | Welectron/RP1-141400     |           |
+| E04R2 | SD card 64GB                            | Raspberry Pi      |       | Welectron/SD1-200644     |           |
+| E04R3 | Heatsink                                | Raspberry Pi      |       | Welectron/409151         |           |
+| E04R4 | Power supply 5V, 3A                     | Raspberry Pi      |       | Welectron/408024-012     |           |
+| E04R5 | Keyboard + mouse                        | Raspberry Pi      |       | Welectron/409483-002     |           |
+| E04R6 | Gamepad                                 | Raspberry Pi      |       | Conrad/1954771           |           |
+| E04E1 | Metal film resistors (set)              | PCB               |       | Reichelt/METALL E 12     |           |
+| E04E2 | Foil capacitors (set)                   | PCB               |       | Reichelt/SORTIMENT 100   |           |
+| E04E3 | Capacitor 100 uF (4x)                   | PCB               |       | Conrad/1179727           |           |
+| E04E4 | Buzzer                                  | PCB               |       | Reichelt/KXG1205C        |           |
+| E04E5 | Transistor KC337 (2x)                   | PCB               |       | Reichelt/BC 337-16       |           |
+| E05E6 | White LED                               | Sensor box        |       | Conrad/180754            |           |
+
 
 ## E05 Connectors
 
@@ -27,12 +45,13 @@ Prices are given in EUR incl. VAT.
 
 | Part  | Description                             | Use               | Price | Vendor/Link              | Datasheet | 
 |-------|-----------------------------------------|-------------------|-------|--------------------------|-----------|
-| E05P  | Power socket with fuse, C14             | Power cable       | 3.29  | [Conrad/2522092](https://www.conrad.de/de/p/tru-components-tc-10088368-kaltgeraete-steckverbinder-c14-stecker-einbau-vertikal-gesamtpolzahl-3-10-a-schwarz-1-st-2522092.html)           |           |
+| E05P1 | Power socket with fuse, C14             | Power cable       | 3.29  | [Conrad/2522092](https://www.conrad.de/de/p/tru-components-tc-10088368-kaltgeraete-steckverbinder-c14-stecker-einbau-vertikal-gesamtpolzahl-3-10-a-schwarz-1-st-2522092.html)           |           |
+| E05P2 | Fuse (250V, 8A, Flink)                  | Power socken      | 0.18  | [Conrad/524207](https://www.conrad.de/de/p/eska-520-526-520526-feinsicherung-o-x-l-5-mm-x-20-mm-8-a-250-v-flink-f-inhalt-10-st-524207.html?searchType=SearchRedirect)        |           |
 | E05M1 | Socket SUB-D-9                          | Motors            | 0.34  | [Conrad/1389963](https://www.conrad.de/de/p/connfly-ds1033-09fbnsiss-ct-d-sub-buchse-180-polzahl-9-loeten-1-st-1389963.html?searchType=SearchRedirect)           |           |
 | E05M2 | Jack SUB-D-9                            | Motors            | 1.95  | [Reichelt/MHDTZK 9 S](https://www.reichelt.de/de/de/shop/produkt/d-sub_stecker_9_polig-342366)      |           |
 | E05M3 | SUB-D screws (2x)                       | Motors            | 1.02  | [Digikey/609-1421-ND](https://www.digikey.de/de/products/detail/amphenol-cs-fci/863001061TLF/1001735)      |           |
-| E05T1 | Socket, Type-K                          | Thermocouple      | 4.79  | [Conrad/121365](https://www.conrad.de/de/p/b-b-thermo-technik-0220-0005-miniaturdose-typ-k-gelb-50-120-c-gelb-inhalt-1-st-121365.html?searchType=SearchRedirect)            |           |
-| E05T2 | Jack, Type-K                            | Thermocouple      | 3.79  | [Conrad/133523](https://www.conrad.de/de/p/b-b-thermo-technik-0220-0001-miniaturstecker-typ-k-gelb-gelb-inhalt-1-st-133523.html?searchType=SearchRedirect)            |           |
+| E05T1 | Socket, Type-K (2x)                     | Thermocouple      | 9.58  | [Conrad/121365](https://www.conrad.de/de/p/b-b-thermo-technik-0220-0005-miniaturdose-typ-k-gelb-50-120-c-gelb-inhalt-1-st-121365.html?searchType=SearchRedirect)            |           |
+| E05T2 | Jack, Type-K (2x)                       | Thermocouple      | 7.58  | [Conrad/133523](https://www.conrad.de/de/p/b-b-thermo-technik-0220-0001-miniaturstecker-typ-k-gelb-gelb-inhalt-1-st-133523.html?searchType=SearchRedirect)            |           |
 | E05S1 | Socket, DIN-6                           | PT sensor         |       | [Conrad/733449](https://www.conrad.de/de/p/lumberg-0103-06-din-rundsteckverbinder-flanschbuchse-kontakte-gerade-polzahl-6-silber-1-st-733449.html?searchType=SearchRedirect)            |           |
 | E05S2 | Jack, DIN-6                             | PT sensor         | 5.99  | [Conrad/733336](https://www.conrad.de/de/p/lumberg-0131-06-din-rundsteckverbinder-stecker-gerade-polzahl-6-silber-1-st-733336.html?searchType=SearchRedirect)            |           |
 | E05W1 | Socket, M8, 09-3390-80-04               | Weight cell       | 12.90 | [Conrad/733875](https://www.conrad.de/de/p/binder-09-3390-80-04-sensor-aktor-einbausteckverbinder-m8-buchse-gerade-polzahl-sensoren-4-1-st-733875.html?searchType=SearchRedirect)            |           |
