@@ -15,7 +15,28 @@ Schematic, real photo
 
 ## E03 Devices: sensors, actuators
 
-Editable list: type, purpose/position, vendor link
+Prices are given in EUR incl. VAT. 
+
+| Part  | Description                             | Use               | Price | Vendor/Link              | Datasheet | 
+|-------|-----------------------------------------|-------------------|-------|--------------------------|-----------|
+| E03H  | Hotplate, Severin KP 1092               | Crucible heating  | 27.99 | [Conrad/704233](https://www.conrad.de/de/p/severin-kp-1092-1092-kochplatte-704233.html?searchType=SearchRedirect)       |           |
+| E03P1 | Stepper, Nema-17 1:20                   | Crystal pulling   | 56.90 | [Conrad/2355877](https://www.conrad.de/de/p/joy-it-schrittmotor-nema17-07gm-0-44-nm-1-68-a-wellen-durchmesser-8-mm-2355877.html?searchType=SearchRedirect)        |           |
+| E03P2 | Motor driver IC, DRV8834                | Stepper motor     | 8.24  | [Exptech/80-2134](https://exp-tech.de/products/pololu-drv8834-low-voltage-stepper-motor-driver-carrier)     |           |
+| E03R1 | DC motor 1000:1                         | Seed rotation     | 12.95 | [Conrad/1289388](https://www.conrad.de/de/p/sol-expert-g1000-micro-getriebemotor-g-1000-metallzahnraeder-1-1000-2-18-u-min-1289388.html?searchType=SearchRedirect)      |           |
+| E03R2 | Motor driver IC, DRV8838                | DC motor          | 4.10  | [Exptech/80-2990](https://exp-tech.de/products/pololu-drv8838-single-brushed-dc-motor-driver-carrier)      |           |
+| E03F1 | Fan, 120 mm, 5V                         | Crystal cooling   | 35.61 | [Conrad/816459971](https://www.conrad.de/de/p/noctua-nf-f12-5v-pwm-fan-1-pack-brun-120-mm5-v-pwm-0-75-w-0-15-a-93-4-816459971.html?searchType=SearchRedirect)    |           |
+| E03W1 | Weight cell, 1 kg                       | Crystal weight    | 39.37 | [Conrad/2104290](https://www.conrad.de/de/p/sauter-ck-1-0p1-ck-1-0p1-messzelle-ck-p1-4-2104290.html?searchType=SearchRedirect)      |           |
+| E03W2 | Weight cell driver IC, HX711            | Weight cell       | 9.86  | [Digikey/1568-1436-ND](https://www.digikey.de/de/products/detail/sparkfun-electronics/13879/6202732?s=N4IgTCBcDaIIwFYBsAOAtHALAZiWgcgCIgC6AvkA)     |           |
+| E03T1 | Thermal sensor PT100, 3x150 mm, 500 °C  | Temperature sensor | 142.87 | [RS/397-1315](https://de.rs-online.com/web/p/widerstands-temperatursensoren/3971315?searchId=d1256e21-5988-4aaf-8b94-83c79a26ba8f)             |           |
+| E03T2 | PT100 driver IC, MAX31865               | Temperature sensor | 12.82 | [Digikey/1528-3328-ND](https://www.digikey.de/de/products/detail/adafruit-industries-llc/3328/6562952)    |           |
+| E03T4 | Thermocouple, Type K, 1x250 mm, 750 °C (2x) | Temperature sensor | 92.44 | [RS/787-7706](https://de.rs-online.com/web/p/thermoelemente/7877706?searchId=9bbca203-3abb-4fba-a2c3-11345d2f288b)       |           |
+| E03T5 | Thermocouple driver IC, MAX31856 (2x)   | Temperature sensor | 30.0  | [Digikey/1528-1772-ND](https://www.digikey.de/de/products/detail/adafruit-industries-llc/3263/6227009?s=N4IgTCBcDaIIwFYwA4C0cDsGyoHIBEQBdAXyA)    |           |
+| E03C  | Current sensor, INA219                  | Motor current     | 8.53   | [Digikey/1528-904-ND](https://www.digikey.de/de/products/detail/adafruit-industries-llc/904/5353628?s=N4IgTCBcDaIIwFYwA4C0BOADAFlQOQBEQBdAXyA)      |           |
+| E03A  | Air sensor, SHT31                       | Air temperature, humidity | 11.96 | [Digikey/1528-2857-ND](https://www.digikey.de/de/products/detail/adafruit-industries-llc/2857/5804106?s=N4IgTCBcDaIIYBM4DMBOBXAlgFwAQGUAJAFQGYBGEAXQF8g) |           |
+| E03I  | IR sensor, MLX90640                     | Hotplate temperature | 30.28 | [Digikey/MLX90640ESF-BAB-000-TU-ND](https://www.digikey.de/de/products/detail/melexis-technologies-nv/MLX90640ESF-BAB-000-TU/8638464?s=N4IgTCBcDaILIBkAaBOADANgCxoKIGUAxAWgCEBBU4tG4gFQFViA5AERAF0BfIA) |           |
+| E03D  | Real time clock, DS3231                 | Raspberry Pi time backup | 15.0  | [Digikey/1528-3013-ND](https://www.digikey.de/de/products/detail/adafruit-industries-llc/3013/5875808) |           |
+| E03O1 | RPi camera                              | Optical camera | 51.90 | [Welectron/RP3-102610](https://www.welectron.com/Offizielle-Raspberry-Pi-HQ-Camera)        |           |
+| E03O2 | Camera lens 8-50 mm                     | Optical camera | 42.90 | [Welectron/WS9-018245](https://www.welectron.com/Waveshare-18245-8-50mm-Zoom-Lens-for-Pi)        |           |
 
 ## E04 Electrical components
 
