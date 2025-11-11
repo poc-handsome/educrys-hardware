@@ -80,7 +80,17 @@ If the EduCrys setup is transported in the partly-assembled state, the following
 - Connect a monitor to the HDMI socket in the right wall.
 - Attach the power cable at the back of the main body. **Raspberry Pi starts as soon as power is connected! Always use the shutdown function in the Menu before disconnecting the power to avoid data loss.**
 - If necessary, a network cable can be attached directly to the Raspberry Pi board through an opening in the back wall. Remove the screws and carefully pull the back wall for about 5 cm to access Raspberry Pi. **The network socket in the back wall can be only used for the sensor box.**
+
+### Clock 
+
 - Check the system clock after the log in. Newer EduCrys setups have a hardware clock with battery backup, while others rely on synchronization over network.
+- The following steps are required to install an external hardware clock, see also [raspberry-pi-geek.de](https://www.raspberry-pi-geek.de/ausgaben/rpg/2015/03/echtzeituhr-modul-ds3231-sorgt-fuer-genaue-zeitangaben/2/) 
+  - Update system time: `sudo date -s "19 May 2025 18:00:00" `
+  - Attach the hardware clock to the I2C bus and find the address (e.g. 68): `sudo i2cdetect -y 1`
+  - Configure the system to use the hardware clock (use the address from above) and add this line also to /etc/rc.local: `echo ds3231 0x68 | sudo tee /sys/class/i2c-adapter/i2c-1/new_device`
+  - Synchronize the hardware clock with system time: `sudo hwclock -w`
+  - Disable synchronization over network: `sudo update-rc.d ntp disable`   `sudo update-rc.d fake-hwclock disable`   `sudo timedatectl set-ntp false`
+ 
 
 The final setup should look like this.
 
