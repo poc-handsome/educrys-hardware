@@ -5,7 +5,7 @@
 
 Design files for KiCad (8.0.0) are here: [KiCad](/E01/KiCad/educrysV2.kicad_pcb)
 
-<img src="E01/KiCad/educrysV2.png" width="800">
+<img src="E01/KiCad/educrysV2.png" width="500">
 
 The following improvements have not been implemented yet:
 - Separate pin header for the clock module
