@@ -3,7 +3,7 @@
 
 ### Layout of the PCB
 
-Design files for KiCad (8.0.0) are here: [KiCad](/E01/KiCad/educrysV2.kicad_pcb)
+Design files for KiCad (8.0.0) are here: [KiCad]([/E01/KiCad/educrysV2.kicad_pcb](https://github.com/poc-handsome/educrys-hardware/tree/main/electronic-design/E01/KiCad))
 
 <img src="E01/KiCad/educrysV2.png" width="500">
 
