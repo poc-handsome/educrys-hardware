@@ -1,11 +1,9 @@
 
 ## E01 PCB
 
-Schematic, PCB layout, 3D model, real photo
+### Layout of the PCB
 
-### Layout and 3D model of the PCB
-
-Design files for KiCad (8.0.0) are here: [KiCad](/E01/KiCad)
+Design files for KiCad (8.0.0) are here: [KiCad](/E01/KiCad/educrysV2.kicad_pcb)
 
 <img src="E01/KiCad/educrysV2.png" width="800">
 
